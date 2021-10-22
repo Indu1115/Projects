@@ -1,0 +1,2 @@
+My mini project is related to my core and the project is VOICE AUTOMATED CAR.
+The main aim of this project is to drive a car using voice in any directions like left,right,front and back.
