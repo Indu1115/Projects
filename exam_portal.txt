@@ -1,1 +1,11 @@
-The project i did in my internship is EXAM PORTAL
+https://thrifty-bear.000webhostapp.com/
+
+The project i did in my internship was EXAM PORTAL-A website for online exams.
+Thois project contains mainly two panels one is user panel for users and another one is admin panel.
+Using user panel the user can signup and login into the portal and can take the exam.
+Whereas using admin panel, the admin can login using login credentials which were setted defaultly for the admin.
+The admin can add,edit and remove the questions and he is the only person who can see the information/data like name,email,results etc. of all the students at a time.
+Whereas the user can see the result of his/her only.When the user take the exam the results will be declared at the time of completion of exam.
+In this project,we created a timer in such a way that the time is running for each question is 30 sec.Within 30 sec only the user must be answered and click the next button. If the time exceeds, then the exam will automatically closed and display the result of the user.
+If the admin add new questions, then the timer will add automatically according to the number of questions.
+MY role in this project is FRONT END DEVELOPER. I designed the pages using HTML,CSS and JAVASCRIPT.
