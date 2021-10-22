@@ -1,2 +1,21 @@
 My mini project is related to my core and the project is VOICE AUTOMATED CAR.
 The main aim of this project is to drive a car using voice in any directions like left,right,front and back.
+In this project, no need of humanbeing to drive a car.
+The components we used in this project are ARDUINO,BLUETOOTH,MOTORS AND BATTERIES.
+First, the voice recognized by an app called BLUETOOTH BOT by humanbeing using smartphone and sending it to car via using wireless technology called bluetooth.
+The bluetooth device which is in car paired with smartphone bluetooth and receives the signal which is given by humanbeing.
+This bluetooth gives the instructions to the arduino and the arduino performs its operations and sends it to the motors.
+The motors which take the electrical energy as input given by arduino and convert it into mechanical energy.
+According to instructions given by motors the car will move automatically.
+ABOUT COMPONENTS:
+=================
+we used arduino because it is open source and the language which written in it is understandable and easy and it can run in any OS.
+we used bluetooth connection because it is popular wireless connection to communicate pairly within short range.
+we used motors to convert electrical energy inti mechanical energy.
+we used batteries for power supply of arduino.
+USE:
+====
+These are used in places where man cannot go like mine search etc.
+DISADVANTAGES:
+==============
+The disadvantage is bluetooth range is 10meters only and the time delay of receiving commands also high and the cost is also high. 
