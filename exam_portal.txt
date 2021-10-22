@@ -1,7 +1,7 @@
 https://thrifty-bear.000webhostapp.com/
 
 The project i did in my internship was EXAM PORTAL-A website for online exams.
-Thois project contains mainly two panels one is user panel for users and another one is admin panel.
+This project contains mainly two panels one is user panel for users and another one is admin panel.
 Using user panel the user can signup and login into the portal and can take the exam.
 Whereas using admin panel, the admin can login using login credentials which were setted defaultly for the admin.
 The admin can add,edit and remove the questions and he is the only person who can see the information/data like name,email,results etc. of all the students at a time.
